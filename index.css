@@ -1,0 +1,16 @@
+.mapContainer{
+    background-color: #e1e1e1;
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.mapContainer path{
+    fill: rgb(205, 203, 203);
+    stroke: #fff;
+    stroke-width: 1px; 
+}
+.beyondPresence path{
+fill: #37b39c;
+}
+
